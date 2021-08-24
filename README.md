@@ -1,10 +1,6 @@
-# Project name
+# Career Success Senior Phase
 
 <!--- These are examples. See https://shields.io for others or to customize this set of shields. You might want to include dependencies, project status and licence info here --->
-![GitHub contributors](https://img.shields.io/github/contributors/nicolerae/README-templateFSA.md)
-![GitHub stars](https://img.shields.io/github/stars/nicolerae/README-templateFSA.md?style=social)
-![GitHub forks](https://img.shields.io/github/forks/nicolerae/README-templateFSA.md?style=social)
-![Twitter Follow](https://img.shields.io/twitter/follow/nicole_rae?style=social)
 
 <!-- PROJECT LOGO -->
 <br />
@@ -19,20 +15,26 @@
     A README template for your projects that will impress recruiters!
     <br />
 
-Project name is a `<utility/tool/feature>` that allows `<insert_target_audience>` to do `<action/task_it_does>`.
-
-Additional line of information text about what the project does. Your introduction should be around 2 or 3 sentences. 
-Don't go overboard, people won't read it!
+Welcome to Senior Phase here at Fullstack Academy! Your Career Success Team is looking forward to supporting you from now until you sign your first offer letter post graduation! 
 
 <!-- PROJECT DEMO GIF, AND IMAGES SHOULD BE PUT HERE -->
 *</b> Image(s) Insert Here* </b> - here is where you can place images of your project, a demo gif, and link to a deployed site - visuals matter!
 <p align=‘center’/>
 <p align='center'><a href="https://www.loom.com/share/04d6c8482c7341fb9b423d10f0bea30b"> <img style="max-width:300px" src="https://cdn.loom.com/sessions/thumbnails/04d6c8482c7341fb9b423d10f0bea30b-with-play.gif"> </br> <p align='center'> Watch Video</p> </a> </p>
 
-## Deployed Site <project_name>:
+## Senior Phase Checklist
 
-Check out <project_name> here! 
-<!--- You can link to the deployed site, or a link to the demo recording, or etc. here --->
+| Week | Schedule|
+| ---- | -----------------|
+| `One`  | ★Completed Intake form on Gradleaders website                                                                                                                                                                                                                                                                       ★Career Success(CS) Lectures: Tech Resume, LinkedIn, Pitch                           ★Mandatory Office Hour meeting w/ assigned main group CS Coach                   |
+| `Two`  | ★Mandatory Office Hour Meeting w/ assigned main CS Coach (continued) ★First round of edits on Tech Resume due ★Office Hour meeting w/supplementary Remote Coach: Tech Resume & Pitch Fullstack Gradleaders ★Job Board Workshop Employer Relations Team|
+| `Three`| Virtual Career Success (CS) Working Time, First round edits on LinkedIn Profile and Gradleaders Job Board Profile due, Office Hour meeting w/ supplementary Remote Coach: LinkedIn & Job Board profile|
+| `Four` | Show file differences that **haven't been** staged |
+| `Five` | Show file differences that **haven't been** staged |
+| `Six` | Show file differences that **haven't been** staged |
+| `Seven` | Show file differences that **haven't been** staged || boo |
+
+     
 
 ## Prerequisites:
 
